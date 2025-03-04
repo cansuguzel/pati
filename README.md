@@ -1,6 +1,7 @@
 # pati_kampus_demo
 
 A new Flutter project.
+I worked as a Flutter developer in an IoT-based pet feeder social responsibility project using a Firebase database. As part of the project, I designed the user interface for the mobile application, enabling remote control and data tracking.
 
 ## Getting Started
 
